@@ -48,7 +48,7 @@ public class OperasiMatematika {
         boolean lulusNilai = nilaiAkhir >= 75;
 
         var lulus = lulusAbsen || lulusNilai;
-        System.out.println(lulus);
+        System.out.println("Hasil kelulusan kamu: "+ lulus);
 
 
 
